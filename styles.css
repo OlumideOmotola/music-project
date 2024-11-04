@@ -1,0 +1,91 @@
+*{
+	margin: 5px;
+	padding: 5px;
+	box-sizing: border-box;
+}
+body{
+	font font-family: Arial Bold;
+	font-weight: 300;
+}
+header{
+	background-image: url(concert.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: white;
+}
+ul{
+	display: flex;
+	flex-wrap: ;
+	flex-basis: ;
+	list-style-type: none;
+	margin-left: 500px;
+}
+a{
+	text-decoration: none;
+	color: yellow;
+}
+h2{
+	color: green;
+	font-style: italic;
+}
+h1{
+	color: blue;
+	font-style: italic;
+}
+.wrapper{
+	display: flex;
+}
+.container{
+	text-align: center;
+}
+.btn{
+	color: red;
+	padding: 0.3rem;
+	border: none;
+	border-radius: 35px;
+	cursor: pointer;
+}
+button{
+	color: red;
+	background-color: black;
+	border-radius: 30px;
+	border: none;
+}
+header3{
+	color: blue;
+	display: flex;
+}
+.container3{
+	text-align: center;
+}
+header2{
+	display: flex;
+	color: pink;
+}
+.btn3{
+	color: white;
+	background-color: purple;
+	cursor: pointer;
+}
+.wrapper2{
+	background-image: url(mixedmusic.jpg);
+	background-repeat: no-repeat; 
+	background-size: 100% 100%;
+}
+bammy{
+	color: orange;
+	display: flex;
+}
+.header3{
+	color: orange;
+	display: flex;
+}
+
+
+
+
+
+
+
+
+
